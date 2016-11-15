@@ -1,0 +1,11 @@
+table, th, td {
+   border: 1px solid black;
+}
+
+.delete-button {
+  background-color: white;
+  border: none;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+}
